@@ -3,7 +3,7 @@
 blog_theme: light # Or use dark
 name: Albert's Blog
 paginate: 5
-url: # add your site url (format: https://example.com)
+url: https://albertli.dev # add your site url (format: https://example.com)
 
 
 # Optional settings
